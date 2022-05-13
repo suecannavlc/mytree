@@ -4,5 +4,4 @@
 
 __version__ = "0.1.0"
 
-from tree_generator import TreeGenerator
-from tree_output import TreeOutput
+from .mytree import DirectoryTree
